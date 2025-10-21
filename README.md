@@ -54,7 +54,7 @@ Live Demo :-
 The deployed app is available at:
 Sales Price Prediction & Analytics Dashboard : https://sales-price-prediction-analytics-dashboard-erzhr6uyqlz5t8nguy8.streamlit.app/
 
-# ⚠️ Note: # If the link does not open immediately, it is likely due to Streamlit Cloud free-tier limitations:
+# ⚠️ Note: If the link does not open immediately, it is likely due to Streamlit Cloud free-tier limitations: #
 Free apps may go to sleep if inactive for ~1 hour.
 First load after inactivity may take a few seconds to start.
 Concurrent user limits may temporarily restrict access.
@@ -71,4 +71,4 @@ requirements.txt – Required Python libraries
 README.md – Project description
 
 
-# Thank You For Visiting! #
+# Thanks For Visiting! #
