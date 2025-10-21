@@ -1,10 +1,10 @@
-#Sales Price Prediction & Analytics Dashboard#
+# Sales Price Prediction & Analytics Dashboard #
 
-Project Overview :-
+# Project Overview :- #
 
 The Sales Price Prediction & Analytics Dashboard is an interactive Streamlit application designed to help businesses analyze sales data, visualize trends, and predict total sales based on product quantity and unit price. This dashboard provides both data insights and a machine learning-powered prediction tool, making it useful for data-driven decision-making.
 
-Key Features :-
+# Key Features :- #
 
 1)Data Overview
       View a clean, tabular representation of the sales dataset.
@@ -22,7 +22,7 @@ Key Features :-
       User-friendly interface for business analysts and recruiters to explore the dataset.
       
 
-Tech Stack :-
+# Tech Stack :- #
 
 > Python
 > 
@@ -36,7 +36,7 @@ Tech Stack :-
 > 
 > Scikit-learn for machine learning (Linear Regression)
 
-Usage :-
+# Usage :- #
 
 1)Clone the repository:
       git clone https://github.com/22K61A4413/Sales-Price-Prediction-Analytics-Dashboard.git
@@ -54,13 +54,13 @@ Live Demo :-
 The deployed app is available at:
 Sales Price Prediction & Analytics Dashboard : https://sales-price-prediction-analytics-dashboard-erzhr6uyqlz5t8nguy8.streamlit.app/
 
-⚠️ Note: If the link does not open immediately, it is likely due to Streamlit Cloud free-tier limitations:
+# ⚠️ Note: # If the link does not open immediately, it is likely due to Streamlit Cloud free-tier limitations:
 Free apps may go to sleep if inactive for ~1 hour.
 First load after inactivity may take a few seconds to start.
 Concurrent user limits may temporarily restrict access.
 In such cases, try refreshing the page after a few seconds.
 
-Project Files -
+# Project Files :- #
 
 app.py – Main Streamlit app
 
@@ -71,4 +71,4 @@ requirements.txt – Required Python libraries
 README.md – Project description
 
 
-Thank You For Visiting!
+# Thank You For Visiting! #
