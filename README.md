@@ -25,21 +25,29 @@ Key Features :-
 Tech Stack :-
 
 > Python
+> 
 > Streamlit for dashboard
+> 
 > Pandas for data manipulation
+> 
 > NumPy for numerical operations
+> 
 > Matplotlib & Seaborn for visualizations
+> 
 > Scikit-learn for machine learning (Linear Regression)
 
-Usag :-
+Usage :-
 
 1)Clone the repository:
       git clone https://github.com/22K61A4413/Sales-Price-Prediction-Analytics-Dashboard.git
+      
 2)Install dependencies:
       pip install -r requirements.txt
+      
 3)Run the app locally:
       streamlit run app.py
-)Open in browser (if using Streamlit Cloud, see the link below).
+      
+4)Open in browser (if using Streamlit Cloud, see the link below).
 
 Live Demo :-
 
@@ -55,8 +63,11 @@ In such cases, try refreshing the page after a few seconds.
 Project Files -
 
 app.py – Main Streamlit app
+
 SuperMarket Analysis.csv – Dataset for training and visualization
+
 requirements.txt – Required Python libraries
+
 README.md – Project description
 
 Thank You 
