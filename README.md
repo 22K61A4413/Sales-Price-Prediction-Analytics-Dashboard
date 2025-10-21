@@ -8,14 +8,19 @@ Key Features :-
 
 1)Data Overview
       View a clean, tabular representation of the sales dataset.
+      
 2)Sales Trend Visualization
       Line chart showing sales trends over time.
+
 3)Sales by City
       Bar chart representing total sales per city.
+      
 4)Sales Prediction
       Predict sales for a given quantity and unit price using a trained Linear Regression model.
+      
 5)Interactive Dashboard
       User-friendly interface for business analysts and recruiters to explore the dataset.
+      
 
 Tech Stack :-
 
